@@ -8,7 +8,6 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,8 +37,13 @@ To run this project locally, follow these steps:
    cd tic-tac-toe
   3. Open the index.html file in your web browser.
 
-##Usage
-Simply open the index.html file in your preferred web browser to start playing the Tic-Tac-Toe game. You can also host the files on a web server for online access.
 
-##Contributing
+## Usage
+
+Simply open the `index.html` file in your preferred web browser to start playing the Tic-Tac-Toe game. You can also host the files on a web server for online access.
+
+## Contributing
+
 If you'd like to contribute to the project, feel free to fork the repository and submit pull requests. Contributions, bug reports, and feedback are welcome!
+
+
