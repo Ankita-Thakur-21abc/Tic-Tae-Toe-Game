@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Ankita-Thakur-21abc/tic-tac-toe.git
     
   2. Open the project folder:
    cd tic-tac-toe
